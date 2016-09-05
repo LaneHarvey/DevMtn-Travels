@@ -4,4 +4,4 @@ var vm = this;
 vm.locations = mainSrv.travelInfo;
 
 
-})
+});

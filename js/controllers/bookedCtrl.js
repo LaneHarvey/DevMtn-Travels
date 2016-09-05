@@ -8,7 +8,7 @@ for (var i = 0; i < trips.length; i++) {
         vm.bookedTrip = trips[i];
     }
 }
-}
-vm.getTrip()
+};
+vm.getTrip();
 
-})
+});
